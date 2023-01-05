@@ -10,7 +10,6 @@ const ImageGalleryItem = ({
     onClick(largeImageURL);
   };
 
-
   return (
     <li className="photo-card">
       <div className="img-wrap">
